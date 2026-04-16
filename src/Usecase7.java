@@ -1,4 +1,4 @@
-public class UseCase7 {
+public class Usecase7 {
 
     // Static Inner Class
     static class CharacterPatternMap {
